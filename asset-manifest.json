@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/DYTE-FrontEndTask/static/css/main.d0c27ea9.chunk.css",
+    "main.js": "/DYTE-FrontEndTask/static/js/main.ecf3cc2d.chunk.js",
+    "main.js.map": "/DYTE-FrontEndTask/static/js/main.ecf3cc2d.chunk.js.map",
+    "runtime-main.js": "/DYTE-FrontEndTask/static/js/runtime-main.8d3ec095.js",
+    "runtime-main.js.map": "/DYTE-FrontEndTask/static/js/runtime-main.8d3ec095.js.map",
+    "static/css/2.6296f2c2.chunk.css": "/DYTE-FrontEndTask/static/css/2.6296f2c2.chunk.css",
+    "static/js/2.1151a8f1.chunk.js": "/DYTE-FrontEndTask/static/js/2.1151a8f1.chunk.js",
+    "static/js/2.1151a8f1.chunk.js.map": "/DYTE-FrontEndTask/static/js/2.1151a8f1.chunk.js.map",
+    "index.html": "/DYTE-FrontEndTask/index.html",
+    "precache-manifest.fd10f292a79db74d18ffb28d5b0f8e2a.js": "/DYTE-FrontEndTask/precache-manifest.fd10f292a79db74d18ffb28d5b0f8e2a.js",
+    "service-worker.js": "/DYTE-FrontEndTask/service-worker.js",
+    "static/css/2.6296f2c2.chunk.css.map": "/DYTE-FrontEndTask/static/css/2.6296f2c2.chunk.css.map",
+    "static/css/main.d0c27ea9.chunk.css.map": "/DYTE-FrontEndTask/static/css/main.d0c27ea9.chunk.css.map",
+    "static/js/2.1151a8f1.chunk.js.LICENSE.txt": "/DYTE-FrontEndTask/static/js/2.1151a8f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d3ec095.js",
+    "static/css/2.6296f2c2.chunk.css",
+    "static/js/2.1151a8f1.chunk.js",
+    "static/css/main.d0c27ea9.chunk.css",
+    "static/js/main.ecf3cc2d.chunk.js"
+  ]
+}
