@@ -1,6 +1,9 @@
 Hello!!. I have deployed the application through Github Pages. But there seems to be an error which I am not able to figure it out. I have deployed many applications on Github pages but I am not able to figure the unknown error out today due to time constraints. Hope you will understand.!!
 
-I have added screenshots of my website which was supposed to be visible through my Github pages link but is not working today unfortunately. 
+
+I tried on Heroku also. It is successfully published. But the website is not visible. Link:https://dyte-task.herokuapp.com/ 
+
+I have added screenshots of my website which was supposed to be visible through my Github pages and Heroku link but is not working today unfortunately. I am not able to figure out the unknown error today due to time constraints.
 
 ![image](https://user-images.githubusercontent.com/63003762/126043026-0d6f9474-e5bc-474a-8cd4-98f419c02d6e.png)
 
